@@ -3,7 +3,7 @@ import React from 'react'
 const UpadateTransformationPage = () => {
   return (
     <div>
-      
+      UpdateTransformationsPage
     </div>
   )
 }
